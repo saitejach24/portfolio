@@ -1,0 +1,20 @@
+#projects {
+    background: var(--second-bg-color);
+  }
+  
+  .projImg {
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+  }
+  
+  .projImg:hover {
+    scale: 1.05;
+    transition: 0.3s ease-in-out;
+  }
+  /* @media (min-width: 320px) and (max-width: 420px) {
+    #pro{
+      position: relative;
+      top: 20px;
+       
+    }
+  } */

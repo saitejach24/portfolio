@@ -1,0 +1,14 @@
+#about {
+    background: var(--second-bg-color);
+  }
+  
+  .aboutRight {
+    text-align: left !important;
+  }
+    @media (min-width: 320px) and (max-width: 413px) {
+    #dev{
+      position: relative;
+      top: 20px;
+
+    }
+  }
