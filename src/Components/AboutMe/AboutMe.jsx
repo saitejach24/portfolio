@@ -11,7 +11,7 @@ const AboutMe = () => {
         <div className="row align-items-center">
           <div className="col-12 col-lg-4">
             <img
-              src="public/aboutme.jpg"
+              src="aboutme.jpg"
               alt="sai teja ch"
               className="img-fluid shadow"
             />
