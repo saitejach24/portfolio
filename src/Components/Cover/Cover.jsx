@@ -39,7 +39,7 @@ const Cover = () => {
             </a>
           </div>
           <a
-             href="../src/Components/resume/sai_resume.pdf"
+             href="sai_resume.pdf"
             target="_blank"
             download=""
             className="button my-3"
@@ -49,7 +49,7 @@ const Cover = () => {
         </div>
         <div className="col-12 col-lg-4 offset-lg-1 text-center order-1 order-lg-2 py-5">
           <img
-            src="../src/assets/cover.jpg"
+            src="cover.jpg"
             alt="sai_teja"
             className="img-fluid"
           />

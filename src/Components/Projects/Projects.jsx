@@ -11,7 +11,7 @@ const Projects = () => {
         <div class="row">
           <div class="col-12 col-md-6 px-4 py-4">
             <img
-              src="../src/assets/project1.png"
+              src="project1.png"
               alt="Project 1"
               className="img-fluid shadow rounded projImg"
             />
@@ -20,7 +20,7 @@ const Projects = () => {
            <a href="https://foodiesfavourite24.netlify.app/" target="_blank">
 
             <img
-              src="../src/assets/project2.png"
+              src="project2.png"
               alt="Project 2"
               className="img-fluid shadow rounded projImg"
             />
@@ -30,7 +30,7 @@ const Projects = () => {
            <a href="https://todoslist24.netlify.app/" target="_blank" >
 
             <img
-              src="../src/assets/project3.png"
+              src="project3.png"
               alt="Project 3"
               className="img-fluid shadow rounded projImg"
             />
@@ -40,7 +40,7 @@ const Projects = () => {
           <div class="col-12 col-md-6 px-4 py-4">
         <a href="https://guessingnumber24.netlify.app/" target="_blank" >
             <img
-              src="../src/assets/project4.png"
+              src="project4.png"
               alt="Project 4"
               className="img-fluid shadow rounded projImg"
             />

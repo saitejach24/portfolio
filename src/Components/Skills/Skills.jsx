@@ -14,7 +14,7 @@ const Skills = () => {
               <div className="col-6 col-lg-4 py-3 px-3">
                 <a href="#" className="text-decoration-none">
                   <img
-                    src="../src/assets/icons/html.png"
+                    src="icons/html.png"
                     alt="HTML"
                     className="img-fluid w-50"
                   />
@@ -26,7 +26,7 @@ const Skills = () => {
               <div className="col-6 col-lg-4 py-3 px-3">
                 <a href="#" className="text-decoration-none">
                   <img
-                    src="../src/assets/icons/css.png"
+                    src="icons/css.png"
                     alt="CSS"
                     className="img-fluid w-50"
                   />
@@ -38,7 +38,7 @@ const Skills = () => {
               <div className="col-6 col-lg-4 py-3 px-3">
                 <a href="#" className="text-decoration-none">
                   <img
-                    src="../src/assets/icons/bootstrap.png"
+                    src="icons/bootstrap.png"
                     alt="bootstrap"
                     className="img-fluid w-50"
                   />
@@ -50,7 +50,7 @@ const Skills = () => {
               <div className="col-6 col-lg-4 py-3 px-3">
                 <a href="#" className="text-decoration-none">
                   <img
-                    src="../src/assets/icons/js.png"
+                    src="icons/js.png"
                     alt="javascript"
                     className="img-fluid w-50"
                   />
@@ -62,7 +62,7 @@ const Skills = () => {
               <div className="col-6 col-lg-4 py-3 px-3">
                 <a href="#" className="text-decoration-none">
                   <img
-                    src="../src/assets/icons/react.png"
+                    src="icons/react.png"
                     alt="react"
                     className="img-fluid w-50"
                   />
@@ -74,7 +74,7 @@ const Skills = () => {
               <div className="col-6 col-lg-4 py-3 px-3">
                 <a href="#" className="text-decoration-none">
                   <img
-                    src="../src/assets/icons/node.png"
+                    src="icons/node.png"
                     alt="nodejs"
                     className="img-fluid w-50"
                   />
@@ -86,7 +86,7 @@ const Skills = () => {
               <div className="col-6 col-lg-4 py-3 px-3">
                 <a href="#" className="text-decoration-none">
                   <img
-                    src="../src/assets/icons/express.png"
+                    src="icons/express.png"
                     alt="express"
                     className="img-fluid w-50"
                   />
@@ -98,7 +98,7 @@ const Skills = () => {
               <div className="col-6 col-lg-4 py-3 px-3">
                 <a href="#" className="text-decoration-none">
                   <img
-                    src="../src/assets/icons/mongo.png"
+                    src="icons/mongo.png"
                     alt="sql"
                     className="img-fluid w-50"
                   />
@@ -110,7 +110,7 @@ const Skills = () => {
               <div className="col-6 col-lg-4 py-3 px-3">
                 <a href="#" className="text-decoration-none">
                   <img
-                    src="../src/assets/icons/sql.png"
+                    src="icons/sql.png"
                     alt="sql"
                     className="img-fluid w-50"
                   />
@@ -137,7 +137,7 @@ const Skills = () => {
           </div>
           <div className="col-12 col-lg-6 my-3" id="skillImg">
             <img
-              src="../src/assets/skill.jpg"
+              src="skill.jpg"
               alt="sai_teja"
               className="img-fluid shadow rounded w-75"
             />
