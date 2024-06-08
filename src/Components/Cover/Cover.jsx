@@ -39,7 +39,7 @@ const Cover = () => {
             </a>
           </div>
           <a
-             href="sai_resume.pdf"
+             href="sai_teja_ch_.pdf"
             target="_blank"
             download=""
             className="button my-3"
