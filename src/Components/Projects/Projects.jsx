@@ -19,15 +19,6 @@ const Projects = () => {
              </a>
           </div>
           <div class="col-12 col-md-6 px-4 py-4">
-            <a href="https://foodiesfavourite24.netlify.app/" target="_blank">
-              <img
-                src="project2.png"
-                alt="Project 2"
-                className="img-fluid shadow rounded projImg"
-              />
-            </a>
-          </div>
-          <div class="col-12 col-md-6 px-4 py-4">
             <a href="https://todoslist24.netlify.app/" target="_blank">
               <img
                 src="project3.png"
@@ -41,6 +32,36 @@ const Projects = () => {
               <img
                 src="project4.png"
                 alt="Project 4"
+                className="img-fluid shadow rounded projImg"
+              />
+            </a>
+          </div>
+          <div class="col-12 col-md-6 px-4 py-4">
+            <a href="https://foodmunchh24.netlify.app/" target="_blank">
+              <img
+                src="project6.png"
+                alt="foodmunch"
+                className="img-fluid shadow rounded projImg"
+              />
+            </a>
+          </div>
+          <div class="col-12 col-md-6 px-4 py-4">
+            <a href="https://foodiesfavourite24.netlify.app/" target="_blank">
+              <img
+                src="project2.png"
+                alt="Project 2"
+                className="img-fluid shadow rounded projImg"
+              />
+            </a>
+          </div>
+          
+        
+       
+          <div class="col-12 col-md-6 px-4 py-4">
+            <a href="https://wikipedia24.netlify.app/" target="_blank">
+              <img
+                src="project7.png"
+                alt="wikipedia"
                 className="img-fluid shadow rounded projImg"
               />
             </a>

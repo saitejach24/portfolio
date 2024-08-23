@@ -24,13 +24,13 @@ const AboutMe = () => {
               </i>
             </h6>
             <p className="py-2">
-              I'm a front-end developer eager to grow into Full-Stack
+              I'm a Mern Stack developer eager to grow into Full-Stack
               Development. I'm skilled in HTML, CSS, Bootstrap, JavaScript, and
               Reactjs, Nodejs, Expressjs, MongoDB with a keen interest in learning more. I'm committed to
               honing my abilities in these areas.
             </p>
             <p className="py-2">
-              If you're in need of a motivated front-end developer, I'm here and
+              If you're in need of a motivated Mern Stack developer, I'm here and
               ready to contribute. I'm excited about opportunities to broaden my
               skills and make meaningful contributions to projects. Let's work
               together!

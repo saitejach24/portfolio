@@ -6,7 +6,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-lg fixed-top">
       <div className="container my-2 pl-5">
         <a href="/" className="navbar-brand headerLink">
-          sai_teja
+          Sai Teja Ch
         </a>
 
         <button

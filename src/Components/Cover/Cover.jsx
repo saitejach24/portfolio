@@ -7,7 +7,7 @@ const Cover = () => {
       <div className="row align-items-center my-5 py-5">
         <div className="col-lg-7 py-5 order-2 order-lg-1 px-4">
           <h4 className="font-weight-bold">Hello, Its me</h4>
-          <h2 className="font-weight-bold">sai_teja</h2>
+          <h2 className="font-weight-bold">Sai Teja</h2>
           <h4 className="font-weight-bold mb-4 pb-2">
             I'm a <span>Web Developer</span>
           </h4>
@@ -39,7 +39,7 @@ const Cover = () => {
             </a>
           </div>
           <a
-             href="sai_teja_ch_.pdf"
+             href="sai_teja_ch.pdf"
             target="_blank"
             download=""
             className="button my-3"

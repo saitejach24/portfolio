@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="text-center py-3" id="footer">
       <p className="my-2 pt-3 align-items-center">
-        Copyright &copy; 2024 by sai_teja | All Rights Reserved
+        Copyright &copy; 2024 by Sai Teja Ch | All Rights Reserved
       </p>
     </footer>
   );
